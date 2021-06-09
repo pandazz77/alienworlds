@@ -1,0 +1,25 @@
+{
+	"mode":"auto",
+	"cords":{
+		"mine":[980,930],
+		"second_mine":[1530,360],
+		"claim":[962,645],
+		"second_claim":[980,950],
+		"captcha":[300,640],
+		"robot":[176,572],
+		"miss":[50,150],
+		"approve":[297,724],
+		"mining hub":[566,861],
+		"error":[1396,328],
+		"login":[980,800],
+		"farm_cords":[[420,1060],[465,1060],[515,1060],[565,1060],[615,1060],[665,1060],[710,1060]]
+	},
+	"timer_e":300,
+	"oth_mons":1366,
+	"calibrate":1,
+	"eoe":true,
+	"farm":true,
+	"farm_attempt_limit":8,
+	"claiming_timer_limit":180,
+	"mining_timer_limit":180
+}
