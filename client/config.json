@@ -1,0 +1,10 @@
+{
+	"key":"99721isurk",
+	"profiles":["profile0","profile1"],
+	"profile_start_time":1,
+	"waiter":3,
+	"set_up":true,
+	"hidden":false,
+	"window_size":"1920x1080",
+	"chromium_path":""
+}
