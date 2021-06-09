@@ -1,0 +1,12 @@
+{
+	"key":"31941sihwm",
+	"cords":{
+		"farm_cords":[[420,1060],[465,1060],[515,1060],[565,1060],[615,1060],[665,1060],[710,1060]]
+	},
+	"oth_mons":1366,
+	"calibrate":1,
+	"eoe":true,
+	"farm_attempt_limit":8,
+	"claiming_timer_limit":180,
+	"mining_timer_limit":180
+}
