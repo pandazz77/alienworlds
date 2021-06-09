@@ -1,0 +1,20 @@
+{
+	"mode":"auto",
+	"cords":{
+		"mine":[980,930],
+		"second_mine":[1530,360],
+		"claim":[962,645],
+		"second_claim":[980,950],
+		"captcha":[300,640],
+		"robot":[176,572],
+		"miss":[50,150],
+		"approve":[297,724],
+		"mining hub":[566,861],
+		"error":[1396,328],
+		"login":[980,800]
+	},
+	"timer_e":300,
+	"oth_mons":1366,
+	"calibrate":1,
+	"eoe":true
+}
